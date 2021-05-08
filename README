@@ -1,0 +1,3 @@
+This program builds a self-balancing AVL tree with recursive insert and delete methods.
+
+Input is read from 'input.txt', and is written to 'output.txt'.
